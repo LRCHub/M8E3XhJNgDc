@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ダンバイン とぶ",
+  "base_artist": "Mio",
+  "createdAt": "2025-12-28T11:43:30.343344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ - オリジナル・カラオケ",
+      "artist": "Mio",
+      "has_synced": false,
+      "path": "select/01_ダンバイン_とぶ_-_オリジナル・カラオケ_Mio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンバイン　とぶ（オリジナル・カラオケ）",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/02_ダンバイン_とぶ(オリジナル・カラオケ)_MIO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/03_ダンバイン_とぶ_MIO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ",
+      "artist": "MIQ",
+      "has_synced": false,
+      "path": "select/04_ダンバイン_とぶ_MIQ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ",
+      "artist": "MIQ",
+      "has_synced": false,
+      "path": "select/05_ダンバイン_とぶ_MIQ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ",
+      "artist": "佐咲紗花",
+      "has_synced": false,
+      "path": "select/06_ダンバイン_とぶ_佐咲紗花.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダンバイン とぶ",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/07_ダンバイン_とぶ_MIO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンバイン とぶ",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/pl_01_ダンバイン_とぶ_MIO.txt"
+    }
+  ]
+}
